@@ -534,7 +534,7 @@ to the important OOP concept of data hiding.
 
 // Encapsulation
 
-\#include&lt;iostream&gt;
+```\#include&lt;iostream&gt;
 
 using namespace std;
 
@@ -575,9 +575,10 @@ return x;
 }
 
 };
+```
 
 // main function
-
+```
 int main()
 
 {
@@ -591,6 +592,7 @@ cout&lt;&lt;obj.get();
 return 0;
 
 }
+```
 
 OUTPUT – 5
 
