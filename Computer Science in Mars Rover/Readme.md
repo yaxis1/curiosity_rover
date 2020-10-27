@@ -1,4 +1,4 @@
-<p align="center">
+<p align="right">
 
 **COMPUTER SCIENCE IN MARS ROVER**
 
