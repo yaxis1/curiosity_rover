@@ -1,3 +1,5 @@
+<p align="center">
+
 **COMPUTER SCIENCE IN MARS ROVER**
 
 A TECHNICAL SEMINAR
@@ -33,6 +35,8 @@ Submitted
 **Bollikunta, Warangal-506005,**
 
 **(2014-2018)**
+
+</p>
 
 **CONTENTS PAGE NUMBER**
 
